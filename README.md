@@ -3,8 +3,9 @@ This tetris project is a fork of Rex L.'s deep learning Tetris agent, aimed to o
 
 https://github.com/zeroize318/tetris_ai
 
-A thesis was written for this project on how the deep learning algorithm works, with my approach's benefits over the original code proven. This thesis can be found in the repo as 
+A thesis was written for this project on how the deep learning algorithm works, with my approach's benefits over the original code proven. This thesis can be found in the repo as "Optimizing Tetris with Deep Reinforcement Learning".
 
+Below are the instructions written by Rex L. on how to run the project:
 
 # AI plays custom Tetris
 ## Requirement:
